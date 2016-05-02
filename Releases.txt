@@ -1,0 +1,1 @@
+1.1 - 05/11/2014 - Ajustes para DpmMonitor funcionar com o DPM 2012
